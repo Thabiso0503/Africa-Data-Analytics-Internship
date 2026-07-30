@@ -100,4 +100,14 @@ AnalystLab-Africa-Data-Science-Internship
 Final Year BSc Computer Science Student
 
 Aspiring Data Analyst & Data Scientist
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
