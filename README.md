@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="C:\Users\nkamb\OneDrive\Pictures\Screenshots\analystlab_logo.png">
+<img src="assets/analystlab_logo.png" alt="AnalystLab Africa Logo" width="180"/>
 
 # AnalystLab Africa — Data Science Internship
 
@@ -12,16 +12,43 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
+
+---
+
+# 📖 About
+
+This repository documents my learning journey throughout the **8-Week AnalystLab Africa Data Science Internship**.
+
+The internship focuses on developing practical skills in:
+
+- 📊 Data Analysis
+- 🧹 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 📉 Statistics
+- 🤖 Machine Learning
+- ⚙️ Feature Engineering
+- 📦 Model Deployment
+- 🎯 Capstone Project
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Programming Language |
+| 🐼 Pandas | Data Manipulation |
+| 🔢 NumPy | Numerical Computing |
+| 📊 Matplotlib | Data Visualization |
+| 🤖 Scikit-Learn | Machine Learning |
+| 📓 Jupyter Notebook | Interactive Development |
+| 🌿 Git & GitHub | Version Control |
 
 ---
 
@@ -32,12 +59,13 @@ AnalystLab-Africa-Data-Science-Internship
 │
 ├── 📂 assets
 │   ├── analystlab_logo.png
-│   ├── project_structure.png
+│   └── project_structure.png
 │
 ├── 📂 Week-01-02
-│   ├── notebooks
-│   ├── datasets
-│   ├── outputs
+│   ├── 📂 notebooks
+│   ├── 📂 datasets
+│   ├── 📂 cleaned_data
+│   └── 📂 outputs
 │
 ├── 📂 Week-03
 ├── 📂 Week-04
@@ -47,54 +75,59 @@ AnalystLab-Africa-Data-Science-Internship
 ├── 📂 Week-08
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── LICENSE
 ```
 
 ---
 
-# 📊 Internship Progress
+# 📅 Weekly Progress
 
-| Week | Status |
-|------|--------|
-| Week 1–2 | 🟡 In Progress |
-| Week 3 | ⏳ Pending |
-| Week 4 | ⏳ Pending |
-| Week 5 | ⏳ Pending |
-| Week 6 | ⏳ Pending |
-| Week 7 | ⏳ Pending |
-| Week 8 | ⏳ Pending |
-
----
-
-# 📚 Topics Covered
-
-- ✅ Dataset Understanding
-- ✅ Data Cleaning
-- ⏳ Exploratory Data Analysis
-- ⏳ Statistics
-- ⏳ Machine Learning
-- ⏳ Feature Engineering
-- ⏳ Model Evaluation
-- ⏳ Deployment
-- ⏳ Capstone Project
+| Week | Topic | Status |
+|------|-------|:------:|
+| Week 1–2 | Dataset Understanding & Data Cleaning | 🟡 In Progress |
+| Week 3 | Statistics | ⏳ Pending |
+| Week 4 | Supervised Learning | ⏳ Pending |
+| Week 5 | Advanced Machine Learning | ⏳ Pending |
+| Week 6 | Feature Engineering | ⏳ Pending |
+| Week 7 | Model Deployment | ⏳ Pending |
+| Week 8 | Capstone Project | ⏳ Pending |
 
 ---
 
-# 🛠️ Tech Stack
+# 🎯 Learning Objectives
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-- Jupyter Notebook
+- ✅ Understand real-world datasets
+- ✅ Clean and preprocess data
+- ✅ Perform Exploratory Data Analysis (EDA)
+- ✅ Build Machine Learning models
+- ✅ Evaluate model performance
+- ✅ Communicate insights effectively
+- ✅ Strengthen Python programming skills
+- ✅ Build a professional data science portfolio
+
+---
+
+# 📈 Repository Goals
+
+This repository serves as a record of my internship work and demonstrates my progress in:
+
+- Python Programming
+- Data Wrangling
+- Data Visualization
+- Statistical Analysis
+- Machine Learning
+- Feature Engineering
+- Version Control with Git & GitHub
 
 ---
 
 <div align="center">
 
-### AnalystLab Africa
+## AnalystLab Africa
 
-**Learn • Analyze • Grow**
+### **Learn • Analyze • Grow**
+
+⭐ *Thank you for visiting this repository!*
 
 </div>
