@@ -6,10 +6,10 @@
 
 # AnalystLab Africa — Data Science Internship
 
-### 👨‍💻 Intern: **Thabiso**
-### 📚 Program: **8-Week Data Science Internship**
-### 📅 Duration: **01 July 2026 – 01 September 2026**
-### 🏢 Organization: **AnalystLab Africa**
+## 👨‍💻 Intern: *Thabiso*
+## 📚 Program: *8-Week Data Science Internship*
+## 📅 Duration: *01 July 2026 – 01 September 2026*
+## 🏢 Organization: *AnalystLab Africa*
 
 <br>
 
