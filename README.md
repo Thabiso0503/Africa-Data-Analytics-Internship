@@ -1,101 +1,95 @@
-# Africa Data Analytics Internship
+<p align="center">
+  <img src="assets/analystlab_logo.png" width="170">
+</p>
 
-## Overview
+<h1 align="center">
+AnalystLab Africa Data Science Internship
+</h1>
 
-This repository contains my practical work completed during the Africa Data Analytics Internship.
+<p align="center">
 
-The goal of this internship is to develop real-world data analytics skills by working with datasets, cleaning data, performing exploratory data analysis (EDA), generating insights, and communicating findings through visualizations and reports.
+Python • Pandas • NumPy • Machine Learning • Data Analysis
 
----
-
-## Objectives
-
-- Understand real-world datasets
-- Clean and preprocess raw data
-- Perform Exploratory Data Analysis (EDA)
-- Create meaningful visualizations
-- Extract business insights
-- Develop professional Python and Pandas skills
-- Build a portfolio of analytics projects
+</p>
 
 ---
 
-## Technologies Used
+## About
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Git & GitHub
+This repository documents my learning journey throughout the **8-Week AnalystLab Africa Data Science Internship**.
 
----
-
-## Repository Structure
-
-```
-Africa-Data-Analytics-Internship/
-│
-├── Week 1 & 2/
-│   ├── notebooks/
-│   ├── datasets/
-│   ├── outputs/
-│   └── README.md
-│
-├── Week 3/
-│
-├── Week 4/
-│
-├── images/
-│
-├── requirements.txt
-│
-├── LICENSE
-│
-└── README.md
-```
-
----
-
-## Projects
-
-### Week 1 & 2
-
-- Dataset Understanding
-- Data Cleaning
-- Missing Value Analysis
-- Duplicate Detection
-- Data Standardization
-- Data Validation
-
-Datasets
-
-- Online Retail Dataset
-- Netflix Titles Dataset
-
----
-
-## Skills Demonstrated
+Throughout this internship, I complete weekly practical projects covering:
 
 - Data Cleaning
-- Data Wrangling
 - Exploratory Data Analysis
-- Data Validation
-- Feature Understanding
-- Python Programming
-- Pandas
-- Git Version Control
+- Statistics
+- Machine Learning
+- Feature Engineering
+- Model Evaluation
+- Deployment
+- Capstone Project
 
 ---
 
-## Future Improvements
+## Tech Stack
 
-- Interactive Dashboards
-- Machine Learning Models
-- Statistical Analysis
-- Power BI Dashboard
-- SQL Analysis
+| Technology | Description |
+|------------|-------------|
+| Python | Programming |
+| Pandas | Data Manipulation |
+| NumPy | Numerical Computing |
+| Matplotlib | Data Visualization |
+| Scikit-Learn | Machine Learning |
+| Jupyter Notebook | Development |
+
+---
+
+## Project Structure
+
+```
+AnalystLab-Africa-Data-Science-Internship
+│
+├── Week-01-02
+│
+├── Week-03
+│
+├── Week-04
+│
+├── Week-05
+│
+├── Week-06
+│
+├── Week-07
+│
+└── Week-08
+```
+
+---
+
+## Weekly Progress
+
+| Week | Status |
+|-------|--------|
+| Week 1–2 | ✅ In Progress |
+| Week 3 | ⏳ Pending |
+| Week 4 | ⏳ Pending |
+| Week 5 | ⏳ Pending |
+| Week 6 | ⏳ Pending |
+| Week 7 | ⏳ Pending |
+| Week 8 | ⏳ Pending |
+
+---
+
+## Skills Gained
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Statistics
+- Machine Learning
+- Python Programming
+- Feature Engineering
+- Git & GitHub
 
 ---
 
@@ -105,12 +99,5 @@ Datasets
 
 Final Year BSc Computer Science Student
 
-Aspiring Data Analyst | Data Scientist
+Aspiring Data Analyst & Data Scientist
 
-LinkedIn:
-(Add your LinkedIn profile)
-
-GitHub:
-https://github.com/Thabiso0503
-
----
