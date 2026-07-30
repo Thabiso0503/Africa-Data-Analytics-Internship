@@ -4,13 +4,13 @@
 
 # AnalystLab Africa — Data Analytics Internship
 
-### 👨‍💻 Intern: **Thabiso Nkambule**
+**👨‍💻 Intern:** Thabiso Nkambule
 
-### 📚 Program: **8-Week Data Analytics Internship**
+**📚 Program:** 8-Week Data Analytics Internship
 
-### 📅 Duration: **01 July 2026 – 01 September 2026**
+**📅 Duration:** 01 July 2026 – 01 September 2026
 
-### 🏢 Organization: **AnalystLab Africa**
+**🏢 Organization:** AnalystLab Africa
 
 <br>
 
