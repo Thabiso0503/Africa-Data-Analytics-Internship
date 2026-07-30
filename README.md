@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="Screenshot%202026-07-30%20225542.png" width="220" alt="AnalystLab Africa Logo">
 </p>
