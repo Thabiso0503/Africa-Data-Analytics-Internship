@@ -1,25 +1,27 @@
 <div align="center">
-<p align="center">
-  <img src="Screenshot%202026-07-30%20225542.png" width="700" alt="AnalystLab Africa Banner">
-</p>
 
+<img src="Screenshot%202026-07-30%20225542.png" width="900" alt="AnalystLab Africa Banner"/>
 
 # AnalystLab Africa — Data Analytics Internship
 
-**👨‍💻 Intern:** Thabiso Nkambule
+### 👨‍💻 Intern: **Thabiso Nkambule**
 
-**📚 Program:** 8-Week Data Analytics Internship
+### 📚 Program: **8-Week Data Analytics Internship**
 
-**📅 Duration:** 01 July 2026 – 01 September 2026
+### 📅 Duration: **01 July 2026 – 01 September 2026**
 
-**🏢 Organization:** AnalystLab Africa
+### 🏢 Organization: **AnalystLab Africa**
+
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipeline-0A66C2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -27,131 +29,171 @@
 
 # 📖 About
 
-This repository documents my learning journey throughout the **8-Week AnalystLab Africa Data Analytics Internship**.
+This repository documents my journey throughout the **8-Week Data Analytics Internship** at **AnalystLab Africa**.
 
-The internship focuses on developing practical skills in:
-
-- 📊 Data Analysis
-- 🧹 Data Cleaning & Preprocessing
-- 📈 Exploratory Data Analysis (EDA)
-- 📉 Statistics
-- 🤖 Machine Learning
-- ⚙️ Feature Engineering
-- 📦 Model Deployment
-- 🎯 Capstone Project
+The internship is designed to develop practical, industry-ready data analytics skills through real-world datasets, business case studies, SQL, Power BI dashboards, ETL pipelines, and a final capstone project.
 
 ---
 
-# 🛠️ Tech Stack
+# 🎯 Internship Objectives
+
+- Develop strong Python programming skills
+- Clean and prepare real-world datasets
+- Perform Exploratory Data Analysis (EDA)
+- Create insightful visualizations
+- Write SQL queries for business analysis
+- Build interactive Power BI dashboards
+- Develop ETL pipelines
+- Present analytical findings
+- Complete an end-to-end analytics capstone project
+
+---
+
+# 🛠 Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
-| 🐍 Python | Programming Language |
-| 🐼 Pandas | Data Manipulation |
+| 🐍 Python | Data Analysis |
+| 🐼 Pandas | Data Cleaning & Manipulation |
 | 🔢 NumPy | Numerical Computing |
-| 📊 Matplotlib | Data Visualization |
-| 🤖 Scikit-Learn | Machine Learning |
-| 📓 Jupyter Notebook | Interactive Development |
+| 📓 Jupyter Notebook | Development Environment |
+| 🗄 SQL (MySQL/PostgreSQL) | Database Querying |
+| 📊 Power BI | Dashboard Development |
+| 🔄 ETL | Data Pipelines |
 | 🌿 Git & GitHub | Version Control |
 
 ---
 
-# 📁 Project Structure
+# 📂 Repository Structure
 
-```mermaid
-flowchart TD
-
-    A["📂 Africa-Data-Analytics-Internship"]
-
-    A --> B["📂 datasets"]
-    B --> B1["📄 OnlineRetail.csv"]
-    B --> B2["📄 netflix_titles.csv"]
-
-    A --> C["📂 Week-01-02"]
-    C --> C1["📓 Dataset_Understanding.ipynb"]
-    C --> C2["📓 Data_Cleaning.ipynb"]
-    C --> C3["📄 Week1_Report.pdf"]
-
-    A --> D["📂 Week-03"]
-    D --> D1["📓 Exploratory_Data_Analysis.ipynb"]
-
-    A --> E["📂 Week-04"]
-    E --> E1["📓 Data_Visualization.ipynb"]
-
-    A --> F["📂 Week-05"]
-    F --> F1["📓 Statistics.ipynb"]
-
-    A --> G["📂 Week-06"]
-    G --> G1["📓 SQL_for_Data_Analytics.ipynb"]
-
-    A --> H["📂 Week-07"]
-    H --> H1["📓 PowerBI_Dashboard.pbix"]
-
-    A --> I["📂 Week-08"]
-    I --> I1["📓 Final_Project.ipynb"]
-
-    A --> J["📂 reports"]
-    J --> J1["📄 Weekly Reports"]
-    J --> J2["📄 Final Report"]
-
-    A --> K["📂 figures"]
-    K --> K1["📊 Charts"]
-    K --> K2["📷 Dashboard Screenshots"]
-
-    A --> L["📂 cleaned_data"]
-    L --> L1["📄 OnlineRetail_Cleaned.csv"]
-    L --> L2["📄 Netflix_Cleaned.csv"]
+```text
+AnalystLab-Africa-Data-Analytics-Internship
+│
+├── 📂 assets
+│   ├── internship_banner.png
+│   ├── analystlab_logo.png
+│   └── project_structure.png
+│
+├── 📂 datasets
+│   ├── OnlineRetail.csv
+│   └── netflix_titles.csv
+│
+├── 📂 Week-01-02_Data_Understanding_Cleaning
+│   ├── notebooks
+│   ├── datasets
+│   ├── cleaned_data
+│   ├── visualizations
+│   └── reports
+│
+├── 📂 Week-03_SQL
+│   ├── SQL Scripts
+│   ├── Practice Queries
+│   └── README.md
+│
+├── 📂 Week-04_Dashboarding
+│   ├── Power BI
+│   ├── Tableau
+│   ├── Dashboard Screenshots
+│   └── README.md
+│
+├── 📂 Week-05_Business_Analytics
+│   ├── Case Study
+│   ├── Reports
+│   └── Presentation
+│
+├── 📂 Week-06_Advanced_Python
+│   ├── Time Series
+│   ├── Feature Engineering
+│   └── Notebooks
+│
+├── 📂 Week-07_ETL_Pipeline
+│   ├── API
+│   ├── ETL Scripts
+│   └── Data Pipeline
+│
+├── 📂 Week-08_Capstone_Project
+│   ├── Dashboard
+│   ├── Report
+│   ├── Presentation
+│   └── Final Notebook
+│
+├── requirements.txt
+├── LICENSE
+└── README.md
 ```
 
 ---
 
-# 📅 Weekly Progress
+# 📅 Weekly Roadmap
 
-| Week | Topic | Status |
-|------|-------|:------:|
+| Week | Focus Area | Status |
+|------|------------|:------:|
 | Week 1–2 | Dataset Understanding & Data Cleaning | 🟡 In Progress |
-| Week 3 | Statistics | ⏳ Pending |
-| Week 4 | Supervised Learning | ⏳ Pending |
-| Week 5 | Advanced Machine Learning | ⏳ Pending |
-| Week 6 | Feature Engineering | ⏳ Pending |
-| Week 7 | Model Deployment | ⏳ Pending |
-| Week 8 | Capstone Project | ⏳ Pending |
+| Week 3 | SQL for Data Analytics | ⏳ Pending |
+| Week 4 | Power BI Dashboard Development | ⏳ Pending |
+| Week 5 | Business Analytics Case Study | ⏳ Pending |
+| Week 6 | Advanced Python Analytics | ⏳ Pending |
+| Week 7 | ETL Pipelines & APIs | ⏳ Pending |
+| Week 8 | Analytics Capstone Project | ⏳ Pending |
 
 ---
 
-# 🎯 Learning Objectives
+# 📈 Skills Acquired
 
-- ✅ Understand real-world datasets
-- ✅ Clean and preprocess data
-- ✅ Perform Exploratory Data Analysis (EDA)
-- ✅ Build Machine Learning models
-- ✅ Evaluate model performance
-- ✅ Communicate insights effectively
-- ✅ Strengthen Python programming skills
-- ✅ Build a professional data science portfolio
+- ✅ Python Programming
+- ✅ Data Cleaning
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Data Visualization
+- ✅ SQL Querying
+- ✅ Dashboard Development
+- ✅ ETL Pipelines
+- ✅ Business Analytics
+- ✅ Analytical Reporting
+- ✅ Version Control (Git & GitHub)
 
 ---
 
-# 📈 Repository Goals
+# 📁 Project Deliverables
 
-This repository serves as a record of my internship work and demonstrates my progress in:
+| Deliverable | Link |
+|-------------|------|
+| 📓 Jupyter Notebooks | `Week-01-02_Data_Understanding_Cleaning/notebooks/` |
+| 📊 Power BI Dashboards | `Week-04_Dashboarding/Power BI/` |
+| 🗄 SQL Scripts | `Week-03_SQL/SQL Scripts/` |
+| 📈 Visualizations | `Week-01-02_Data_Understanding_Cleaning/visualizations/` |
+| 📄 Reports | `reports/` |
+| 🎤 Presentations | `Week-08_Capstone_Project/Presentation/` |
 
-- Python Programming
-- Data Wrangling
-- Data Visualization
-- Statistical Analysis
-- Machine Learning
-- Feature Engineering
-- Version Control with Git & GitHub
+---
+
+# 🚀 Repository Goals
+
+This repository showcases my practical work completed during the AnalystLab Africa Data Analytics Internship and serves as a portfolio demonstrating my ability to:
+
+- Analyze real-world datasets
+- Build data analytics workflows
+- Create business dashboards
+- Develop analytical solutions
+- Communicate insights effectively
+
+---
+
+# 👨‍💻 Author
+
+**Thabiso Nkambule**
+
+Final-Year BSc Computer Science Student
+
+Aspiring Data Analyst | Data Scientist | Business Intelligence Enthusiast
+
+📍 South Africa
 
 ---
 
 <div align="center">
 
-## AnalystLab Africa
+### ⭐ If you found this repository interesting, consider giving it a star!
 
-### **Learn • Analyze • Grow**
-
-⭐ *Thank you for visiting this repository!*
+**AnalystLab Africa — Learn • Analyze • Grow**
 
 </div>
