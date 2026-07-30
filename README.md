@@ -7,7 +7,7 @@
 # AnalystLab Africa — Data Analytics Internship
 
 #### 👨‍💻 Intern: ***Thabiso***
-#### 📚 Program: ***8-Week Data Science Internship***
+#### 📚 Program: ***8-Week Data Analytics Internship***
 #### 📅 Duration: ***01 July 2026 – 01 September 2026***
 #### 🏢 Organization: ***AnalystLab Africa***
 
@@ -25,7 +25,7 @@
 
 # 📖 About
 
-This repository documents my learning journey throughout the **8-Week AnalystLab Africa Data Science Internship**.
+This repository documents my learning journey throughout the **8-Week AnalystLab Africa Data Analytics Internship**.
 
 The internship focuses on developing practical skills in:
 
@@ -54,31 +54,51 @@ The internship focuses on developing practical skills in:
 
 ---
 
-# 📂 Project Structure
+# 📁 Project Structure
 
-```text
-AnalystLab-Africa-Data-Science-Internship
-│
-├── 📂 assets
-│   ├── analystlab_logo.png
-│   └── project_structure.png
-│
-├── 📂 Week-01-02
-│   ├── 📂 notebooks
-│   ├── 📂 datasets
-│   ├── 📂 cleaned_data
-│   └── 📂 outputs
-│
-├── 📂 Week-03
-├── 📂 Week-04
-├── 📂 Week-05
-├── 📂 Week-06
-├── 📂 Week-07
-├── 📂 Week-08
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
+```mermaid
+flowchart TD
+
+    A["📂 Africa-Data-Analytics-Internship"]
+
+    A --> B["📂 datasets"]
+    B --> B1["📄 OnlineRetail.csv"]
+    B --> B2["📄 netflix_titles.csv"]
+
+    A --> C["📂 Week-01-02"]
+    C --> C1["📓 Dataset_Understanding.ipynb"]
+    C --> C2["📓 Data_Cleaning.ipynb"]
+    C --> C3["📄 Week1_Report.pdf"]
+
+    A --> D["📂 Week-03"]
+    D --> D1["📓 Exploratory_Data_Analysis.ipynb"]
+
+    A --> E["📂 Week-04"]
+    E --> E1["📓 Data_Visualization.ipynb"]
+
+    A --> F["📂 Week-05"]
+    F --> F1["📓 Statistics.ipynb"]
+
+    A --> G["📂 Week-06"]
+    G --> G1["📓 SQL_for_Data_Analytics.ipynb"]
+
+    A --> H["📂 Week-07"]
+    H --> H1["📓 PowerBI_Dashboard.pbix"]
+
+    A --> I["📂 Week-08"]
+    I --> I1["📓 Final_Project.ipynb"]
+
+    A --> J["📂 reports"]
+    J --> J1["📄 Weekly Reports"]
+    J --> J2["📄 Final Report"]
+
+    A --> K["📂 figures"]
+    K --> K1["📊 Charts"]
+    K --> K2["📷 Dashboard Screenshots"]
+
+    A --> L["📂 cleaned_data"]
+    L --> L1["📄 OnlineRetail_Cleaned.csv"]
+    L --> L2["📄 Netflix_Cleaned.csv"]
 ```
 
 ---
