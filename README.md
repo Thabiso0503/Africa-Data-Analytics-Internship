@@ -4,7 +4,7 @@
 </p>
 
 
-# AnalystLab Africa — Data Science Internship
+# AnalystLab Africa — Data Analytics Internship
 
 #### 👨‍💻 Intern: ***Thabiso***
 #### 📚 Program: ***8-Week Data Science Internship***
