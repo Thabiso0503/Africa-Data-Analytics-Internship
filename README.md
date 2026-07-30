@@ -1,76 +1,62 @@
-<p align="center">
-  <img src="assets/analystlab_logo.png" width="170">
-</p>
+<div align="center">
 
-<h1 align="center">
-AnalystLab Africa Data Science Internship
-</h1>
+<img src="C:\Users\nkamb\OneDrive\Pictures\Screenshots\analystlab_logo.png">
 
-<p align="center">
+# AnalystLab Africa — Data Science Internship
 
-Python • Pandas • NumPy • Machine Learning • Data Analysis
+### 👨‍💻 Intern: **Thabiso**
+### 📚 Program: **8-Week Data Science Internship**
+### 📅 Duration: **01 July 2026 – 01 September 2026**
+### 🏢 Organization: **AnalystLab Africa**
 
-</p>
+<br>
 
----
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## About
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-This repository documents my learning journey throughout the **8-Week AnalystLab Africa Data Science Internship**.
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
 
-Throughout this internship, I complete weekly practical projects covering:
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistics
-- Machine Learning
-- Feature Engineering
-- Model Evaluation
-- Deployment
-- Capstone Project
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn)
+
+</div>
 
 ---
 
-## Tech Stack
+# 📂 Project Structure
 
-| Technology | Description |
-|------------|-------------|
-| Python | Programming |
-| Pandas | Data Manipulation |
-| NumPy | Numerical Computing |
-| Matplotlib | Data Visualization |
-| Scikit-Learn | Machine Learning |
-| Jupyter Notebook | Development |
-
----
-
-## Project Structure
-
-```
+```text
 AnalystLab-Africa-Data-Science-Internship
 │
-├── Week-01-02
+├── 📂 assets
+│   ├── analystlab_logo.png
+│   ├── project_structure.png
 │
-├── Week-03
+├── 📂 Week-01-02
+│   ├── notebooks
+│   ├── datasets
+│   ├── outputs
 │
-├── Week-04
+├── 📂 Week-03
+├── 📂 Week-04
+├── 📂 Week-05
+├── 📂 Week-06
+├── 📂 Week-07
+├── 📂 Week-08
 │
-├── Week-05
-│
-├── Week-06
-│
-├── Week-07
-│
-└── Week-08
+├── README.md
+└── requirements.txt
 ```
 
 ---
 
-## Weekly Progress
+# 📊 Internship Progress
 
 | Week | Status |
-|-------|--------|
-| Week 1–2 | ✅ In Progress |
+|------|--------|
+| Week 1–2 | 🟡 In Progress |
 | Week 3 | ⏳ Pending |
 | Week 4 | ⏳ Pending |
 | Week 5 | ⏳ Pending |
@@ -80,34 +66,35 @@ AnalystLab-Africa-Data-Science-Internship
 
 ---
 
-## Skills Gained
+# 📚 Topics Covered
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Statistics
-- Machine Learning
-- Python Programming
-- Feature Engineering
-- Git & GitHub
+- ✅ Dataset Understanding
+- ✅ Data Cleaning
+- ⏳ Exploratory Data Analysis
+- ⏳ Statistics
+- ⏳ Machine Learning
+- ⏳ Feature Engineering
+- ⏳ Model Evaluation
+- ⏳ Deployment
+- ⏳ Capstone Project
 
 ---
 
-## Author
+# 🛠️ Tech Stack
 
-**Thabiso**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Jupyter Notebook
 
-Final Year BSc Computer Science Student
+---
 
-Aspiring Data Analyst & Data Scientist
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+<div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+### AnalystLab Africa
 
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+**Learn • Analyze • Grow**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
-
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+</div>
