@@ -1,7 +1,8 @@
 <div align="center">
 <p align="center">
- <img src="Screenshot%202026-07-30%20225542.png" width="180">
+  <img src="Screenshot%202026-07-30%20225542.png" width="700" alt="AnalystLab Africa Banner">
 </p>
+
 
 # AnalystLab Africa — Data Science Internship
 
